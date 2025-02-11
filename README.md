@@ -1,2 +1,2 @@
 # kata
-Ya smog
+Ya smog!!
